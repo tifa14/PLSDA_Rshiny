@@ -1,0 +1,11 @@
+
+Descriptive statistics
+=======================================
+Statistic      N  Mean St. Dev. Min Max
+---------------------------------------
+Id            150 75.5   43.4    1  150
+SepalLengthCm 150 5.8    0.8    4.3 7.9
+SepalWidthCm  150 3.1    0.4    2.0 4.4
+PetalLengthCm 150 3.8    1.8    1.0 6.9
+PetalWidthCm  150 1.2    0.8    0.1 2.5
+---------------------------------------
